@@ -20,7 +20,7 @@ export default function Home() {
             <a>About</a>
           </Link>
           &nbsp;/&nbsp;
-          <Link href="profile">
+          <Link href="profiles">
             <a>Profile</a>
           </Link>
         </div>
